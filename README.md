@@ -3,8 +3,11 @@ a free app for linux and windows that run local ai models on your device without
 it has a normall chatbot ui inspierd buy claude and it ha a lot of models 
 it can code and generate files and anylize files and generate images 
 not only it can run local models you can olso give it a api if you want 
+
 made by xmmcraft
+
 tiktok : @xmmcraft
 
 company: supergo
+
 other repos : https://github.com/2b0x-coapration/supergo-browser
