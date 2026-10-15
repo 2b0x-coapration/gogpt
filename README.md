@@ -5,5 +5,6 @@ it can code and generate files and anylize files and generate images
 not only it can run local models you can olso give it a api if you want 
 made by xmmcraft
 tiktok : @xmmcraft
+
 company: supergo
 other repos : https://github.com/2b0x-coapration/supergo-browser
